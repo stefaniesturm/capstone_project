@@ -1,3 +1,4 @@
-## Project page for the capstone project "Fashion recommendation systems for the H&M online shop" 
+## Capstone project 
+### Fashion recommendation systems for the H&M online shop
 
 ...
