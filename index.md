@@ -1,1 +1,6 @@
-# Hello, this is the index.md file
+# Fashion recommendation systems for the H&M online shop
+Final project work for the postgraduate degree Introduction to Data Science and Machine Learning at the University of Barcelona. Group project by Nadia Carmona, Marika Erasmus and Stefanie Sturm. 
+
+The goal of the project was to explore the dataset provided by the [H&M Kaggle challenge](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) and, using an explorative approach, find ways in which to use the data to build different recommendation systems. We started the project by trying to learn more about the different datasets provided (article descriptions, customer descriptions, historical transactions and images of articles) by visualising them in various ways. We then build a very simple recommendation system based on product popularity (for new customers). Second, we used an NLP approach to build an item-based recommendation engines (recommending siilar items to the one that is currently being viewed by a customer). Lastly, we build a deep learning recommender using the transcation dataset, which recommends articles a customer might like based on the preferences of similar customers. 
+
+Please run the Jupyter Notebook. [Download the files here](https://www.kaggle.com/datasets/odins0n/handm-dataset-128x128) (they are too big for GitHub). 
